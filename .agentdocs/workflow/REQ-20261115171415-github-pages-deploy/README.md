@@ -26,7 +26,7 @@
 
 ## 当前有效结论
 
-- 使用当前登录账号 `LeP-Ton`，仓库名沿用项目名 `the-last-ai`；同名远程仓库在检查时不存在，按公开原型发布场景新建公开仓库。
+- 使用当前登录账号 `LeP-Ton`，仓库名沿用项目名 `the-last-ai`。公开仓库创建被自动审批拒绝后，改为私有仓库，避免未经明确授权公开完整源码和文档。Pages 是否可从私有仓库发布以账号权限的实际结果为准。
 - 目标仓库：[LeP-Ton/the-last-ai](https://github.com/LeP-Ton/the-last-ai)。
 - 目标站点：[火星沙盘](https://lep-ton.github.io/the-last-ai/)。
 - 采用 GitHub 官方 Pages Actions，构建与部署分成两个作业；发布使用内置令牌，权限限定在部署作业。
