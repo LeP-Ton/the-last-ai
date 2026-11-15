@@ -4,7 +4,7 @@ GameX 纯 Web 3D 科幻战棋原型。当前交付 **Phase 1：Hex-Sphere 蜂窝
 
 已实现真正连通的火星蜂窝网格（350 个六边形 + 12 个五边形）、格子拾取、带地形阻挡的跨区寻路、范围查询、路径预演、自由旋转与平滑定位。这里的路径探针用于验证拓扑，尚未包含单位战斗、WEGO 或自主 AI。
 
-在线体验：[最后的 AI · 火星沙盘](https://lep-ton.github.io/the-last-ai/)。
+Pages 目标地址：[最后的 AI · 火星沙盘](https://lep-ton.github.io/the-last-ai/)（发布待完成：当前套餐不支持私有仓库 Pages，等待公开仓库授权）。
 
 源码仓库：[LeP-Ton/the-last-ai](https://github.com/LeP-Ton/the-last-ai)。
 
